@@ -1,4 +1,4 @@
-[LOGO](https://github.com/DeepWave-Kaust/PINNgabor-dev/blob/main/asset/diagram.png)
+[LOGO](https://github.com/DeepWave-Kaust/PINNgabor/blob/main/asset/diagram.png)
 
 Reproducible material for GaborPINN: Efficient physics informed neural networks using multiplicative filtered networks - **Xinquan Huang, Tariq Alkhalifah.**
 
